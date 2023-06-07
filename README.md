@@ -1,2 +1,2 @@
 # BSQ
-Création d'un workflow github action afin de vérifier automatiquement si le projet compile bien, passe bien les tests et et a la norme avant de le push sur le repo principal.
+Création d'un algorithme capable de trouver le plus grand carré constitué de 'X' dans une carte constituée de 'O' (obstacles) et de 'X'.
